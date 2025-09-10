@@ -1,0 +1,25 @@
+[33mcommit 6668735a75c6b3de6fe67989b27c06230d0d3d1d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v2.0[m[33m, [m[1;33mtag: v1.1[m[33m, [m[1;33mtag: v1.0[m[33m)[m
+Author: Marek M <marrco.prv@vp.pl>
+Date:   Mon Sep 8 16:32:12 2025 +0200
+
+    First release of Hello World!
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fc9caaf[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m[32m<title>Hello World!</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m
+[32m+[m[32m<h1>Hello world!</h1>[m
+[32m+[m[32m<p>This is the first file in my new Git Repo.</p>[m
+[32m+[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
